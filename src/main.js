@@ -1,12 +1,12 @@
 import './styles.css';
 
 const profile = {
-  name: 'Seu Nome',
+  name: 'Rafael Luis Pomponio',
   role: 'Estudante de Tecnologia',
   location: 'Curitiba, PR',
-  email: 'seu.email@exemplo.com',
+  email: 'rafaelpomponio@ufpr.br',
   github: 'https://github.com/pompssss',
-  linkedin: 'https://www.linkedin.com/in/SEU_USUARIO',
+  linkedin: 'https://www.linkedin.com/in/rafael-pomponio',
   summary:
     'Curriculo online criado para demonstrar conhecimentos em desenvolvimento web, conteinerizacao, automacao de CI/CD e governanca de codigo.',
   skills: ['HTML', 'CSS', 'JavaScript', 'Docker', 'GitHub Actions', 'Git'],
