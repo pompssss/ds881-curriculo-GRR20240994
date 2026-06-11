@@ -106,6 +106,10 @@ A branch `main` foi configurada como protegida no GitHub com a regra:
 - Bloquear push direto na `main`.
 - Exigir status checks apos o primeiro workflow ficar disponivel.
 
-Evidencia:
 
-Adicione aqui o print da configuracao de Branch Protection feita em `Settings > Branches`.
+### Evidencia
+
+<img width="914" height="813" alt="image" src="https://github.com/user-attachments/assets/fffadf70-b53a-43f8-ba5a-8bae7950befc" />
+<img width="684" height="913" alt="image" src="https://github.com/user-attachments/assets/8354b070-a150-4c97-a0a4-a9145434dced" />
+
+
