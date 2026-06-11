@@ -5,7 +5,7 @@ const profile = {
   role: 'Estudante de Tecnologia',
   location: 'Curitiba, PR',
   email: 'seu.email@exemplo.com',
-  github: 'https://github.com/SEU_USUARIO',
+  github: 'https://github.com/pompssss',
   linkedin: 'https://www.linkedin.com/in/SEU_USUARIO',
   summary:
     'Curriculo online criado para demonstrar conhecimentos em desenvolvimento web, conteinerizacao, automacao de CI/CD e governanca de codigo.',

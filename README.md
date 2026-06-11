@@ -7,10 +7,10 @@ Projeto individual da disciplina DS881 para publicacao de um curriculo/portfolio
 Link do GitHub Pages:
 
 ```txt
-https://SEU_USUARIO.github.io/ds881-curriculo-GRR20240994/
+https://pompssss.github.io/ds881-curriculo-GRR20240994/
 ```
 
-Substitua `SEU_USUARIO` pelo seu usuario do GitHub depois do primeiro deploy.
+Este link ficara disponivel depois que o deploy no GitHub Pages for executado com sucesso.
 
 ## Stack utilizada
 
@@ -27,7 +27,7 @@ O projeto foi configurado para rodar sem instalar Node.js diretamente no sistema
 1. Clone o repositorio:
 
 ```powershell
-git clone https://github.com/SEU_USUARIO/ds881-curriculo-GRR20240994.git
+git clone https://github.com/pompssss/ds881-curriculo-GRR20240994.git
 ```
 
 2. Entre na pasta do projeto:
